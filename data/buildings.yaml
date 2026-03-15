@@ -1,0 +1,17 @@
+# 台師大教室盤點 - 綜合大樓、教育大樓、科工大樓
+buildings:
+  - id: comprehensive
+    name: 綜合大樓
+    description: 和平校區，主要教學大樓
+    floors: 10
+    room_prefix: "綜"
+  - id: education
+    name: 教育大樓
+    description: 和平校區，教育學院，一樓教室、二樓會議廳
+    floors: 10
+    room_prefix: "教"
+  - id: science_engineering
+    name: 科工大樓
+    description: 公館校區，理工科系教室與實驗室
+    floors: 8
+    room_prefix: "科"
